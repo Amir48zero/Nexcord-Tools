@@ -95,7 +95,7 @@ The cloner does *not* use the discord.py library. It requires your **Personal Us
 
 ## 📸 UI Preview
 
-> `![Nexcord UI](https://i.imgur.com/YOUR_SCREENSHOT_LINK_HERE.png)`
+> `![Nexcord UI](https://cdn.imgurl.ir/uploads/p515900_Screenshot_2026-07-03_073026.png)`
 
 ---
 
